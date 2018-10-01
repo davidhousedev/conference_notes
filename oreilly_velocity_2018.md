@@ -37,6 +37,7 @@
 * [Rancher](https://rancher.com/), a SaaS control for k8s
 
 # Intro to AWS Lambda and API Gateway
+Slides: https://docs.google.com/presentation/d/17n5maGxIxH2JLaL6rs6fudaW6rUpJ2ljusN0FqOGQGA/edit
 ## Major Takeaways
 * AWS Lambda works well for many solutions, but there are a couple circumstances that are not well-suited:
 	* Ultra-low latency requests (e.g. `<100ms required`)
